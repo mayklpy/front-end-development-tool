@@ -1,11 +1,12 @@
 {
   "name": "front-end-development-tool",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Front-end Development Tool",
   "main": "webpack.config.js",
   "scripts": {
     "dev": "webpack-dev-server",
-    "build": "webpack"
+    "build": "webpack",
+    "serve": "http-server ./dist"
   },
   "repository": {
     "type": "git",
@@ -34,6 +35,7 @@
     "cssnano": "^4.1.10",
     "fs-extra": "^8.1.0",
     "html-webpack-plugin": "^3.2.0",
+    "http-server": "^0.12.1",
     "mini-css-extract-plugin": "^0.9.0",
     "postcss-loader": "^3.0.0",
     "sass": "^1.24.4",

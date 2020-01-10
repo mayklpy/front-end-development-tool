@@ -10,6 +10,12 @@ npm install
 
 npm run dev
 
+Development mode is running at http://localhost:3000/
+
 ### Production Mode
 
 npm run build
+
+### Preview the build
+
+npm run serve
