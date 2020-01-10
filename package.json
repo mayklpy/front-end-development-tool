@@ -2,7 +2,7 @@
   "name": "front-end-development-tool",
   "version": "1.0.0",
   "description": "Front-end Development Tool",
-  "main": "index.js",
+  "main": "webpack.config.js",
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "webpack"
