@@ -4,7 +4,8 @@
   "description": "Front-end Development Tool",
   "main": "index.js",
   "scripts": {
-    "dev": "webpack-dev-server"
+    "dev": "webpack-dev-server",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
@@ -38,8 +39,8 @@
     "sass": "^1.24.4",
     "sass-loader": "^8.0.1",
     "style-loader": "^1.1.2",
-    "web-dev-server": "^1.6.7",
     "webpack": "^4.41.5",
-    "webpack-cli": "^3.3.10"
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.10.1"
   }
 }
