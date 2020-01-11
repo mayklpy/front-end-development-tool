@@ -2,20 +2,28 @@
 
 Front-end development tool using Node.js, Babel, Webpack, PostCSS and Sass
 
-### Setup
+## Setup
 
-npm install
+```shell
+$ npm install
+```
 
-### Development mode
+## Development mode
 
-npm run dev
+```shell
+$ npm run dev
+```
 
 Development mode is running at http://<span></span>localhost:3000/
 
-### Production Mode
+## Production Mode
 
-npm run build
+```shell
+$ npm run build
+```
 
-### Preview the build
+## Preview the build
 
-npm run serve
+```shell
+$ npm run serve
+```
